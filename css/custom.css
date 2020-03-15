@@ -1,6 +1,7 @@
 body {
   font: 18px/1.3em 'Roboto', sans-serif;
   direction: rtl;
+  -webkit-overflow-scrolling: touch;
 }
 
 .table>thead:first-child>tr:first-child>th:nth-child(3) {
